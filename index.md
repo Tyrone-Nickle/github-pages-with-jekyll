@@ -1,3 +1,3 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+Welcome to the matrix
+i am glad you have choosen the red pill
+let the games begin
