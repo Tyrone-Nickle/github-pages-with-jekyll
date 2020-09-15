@@ -1,4 +1,5 @@
-title: Minima
+theme: minima
+title: Matrix
 author: Tyrone Nickle
 email: yredpill@domain.com
 description: > # this means to ignore newlines until "baseurl:"
